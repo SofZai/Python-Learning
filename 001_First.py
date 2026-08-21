@@ -1,0 +1,1 @@
+print ("i love python") ; print ("I love programming")
